@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "firstname": "satyam",
+      "lastname": "singh",
+      "emailid": "satyamkumarsingh759@gmail.com",
+      "id": 1
+    },
+    {
+      "firstname": "satyam",
+      "lastname": "singh",
+      "emailid": "satyamkumarsingh759@gmail.com",
+      "id": 2
+    },
+    {
+      "firstname": "suresh",
+      "lastname": "mehta",
+      "emailid": "suresh@gmail.com",
+      "id": 3
+    },
+    {
+      "firstname": "mahesh",
+      "lastname": "dalle",
+      "emailid": "mahesdalle@gmail.com",
+      "id": 4
+    },
+    {
+      "firstname": "sunnny",
+      "lastname": "leone",
+      "emailid": "sunnyleonexxx@gmail.com",
+      "id": 5
+    }
+  ]
+}
